@@ -4,9 +4,8 @@
 
 ![Description of GIF](resources/Dashboard.gif)
 
-### Description:
 
-### 🚲 Bike Sales Dashboard Project
+### 🚲 Bike Sales Dashboard Analysis:
 
 The **Bike Sales Dashboard** is an interactive tool designed to provide a comprehensive overview of customer demographics and purchasing behaviors related to bike sales. Through various visualizations and interactive filters, the dashboard reveals patterns in income, age, commute distance, and other demographic factors, helping stakeholders understand key trends in the bike market.
 
